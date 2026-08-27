@@ -3,3 +3,4 @@ Employee Name:Vaibhav
 Department:CSE
 Designation:Student
 Salary:12345
+Date of join: 14 Aug 2026
