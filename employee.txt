@@ -1,5 +1,5 @@
-Employee ID:
-Employee Name:
-Department:
-Designation:
-Salary:
+Employee ID:11
+Employee Name:Vaibhav
+Department:CSE
+Designation:Student
+Salary:12345
